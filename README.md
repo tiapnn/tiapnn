@@ -1,5 +1,5 @@
 ## Hey there! 👋
-#### Nice to see you here! Drop me a line if I could be of help
+#### Nice to see you here! Drop me a line if I can be of help
 
 ***
 <br>
