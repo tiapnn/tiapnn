@@ -1,6 +1,10 @@
 ## Hey there! 👋
 #### Nice to see you here! Drop me a line if I can be of help
 
+PHP • Symfony • CodeIgniter • AWS • Azure • SQL • JS • Node • Vue • Linux • Cordova
+
+
+
 ***
 <br>
 
