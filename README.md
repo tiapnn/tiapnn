@@ -1,12 +1,7 @@
 ## Hello there! I'm Mattia <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img src="https://komarev.com/ghpvc/?username=tiapnn&color=green">
-
 <a href="https://www.linkedin.com/in/tiapnn/">
-  <img alt="Tiapnn's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.codepen.io/tiapnn/">
-  <img alt="Tiapnn's Codepen" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mattia Penna's LinkedIn Profile" height="30" width="30">
 </a>
 
 #### Nice to see you here! Drop me a line if I can be of help
@@ -15,6 +10,7 @@
 - 💼 [Portfolio](https://tiapnn.netlify.app/)
 - 📚 [Blog](https://www.ambidestro.it/)
 
+[![Google Playstore](https://img.shields.io/badge/-PNZ_Devs_APPS-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=PNZ+Devs)
 
 ## Tech Stack
 PHP • Symfony • CodeIgniter • AWS • Azure • SQL • JS • Node • Vue • Linux • Cordova
