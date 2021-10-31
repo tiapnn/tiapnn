@@ -7,7 +7,7 @@
 #### Nice to see you here! Drop me a line if I can be of help
 
 - 📝 [Curriculum Vitae](https://drive.google.com/file/d/15wLCB29NCdjPtBbq8MbaRNdQLwCMozVZ/view?usp=sharing)
-- 💼 [Portfolio](https://tiapnn.netlify.app/)
+- 💼 [Portfolio](https://mattiapenna.dev/)
 - 📚 [Blog](https://www.ambidestro.it/)
 
 [![Google Playstore](https://img.shields.io/badge/-PNZ_Devs_APPS-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=PNZ+Devs)
