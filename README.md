@@ -10,7 +10,8 @@
 - 💼 [Portfolio](https://mattiapenna.dev/)
 - 📚 [Blog](https://www.ambidestro.it/)
 
-[![Google Playstore](https://img.shields.io/badge/-PNZ_Devs_APPS-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=PNZ+Devs)
+[![Google Playstore](https://img.shields.io/badge/-My_Android_apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=PNZ+Devs)
+[![Google Playstore](https://img.shields.io/badge/-My_iOS_apps-gray?style=flat&logo=Apple&logoColor=white)](https://apps.apple.com/us/developer/mattia-penna/id1604956358)
 
 ## Tech Stack
 PHP • Symfony • CodeIgniter • AWS • Azure • SQL • JS • Node • Vue • Linux • Cordova
