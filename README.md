@@ -1,4 +1,4 @@
-## Hello there! I'm Mattia <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello there! I'm Mattia 👋🏼
 
 <a href="https://www.linkedin.com/in/tiapnn/">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mattia Penna's LinkedIn Profile" height="30" width="30">
