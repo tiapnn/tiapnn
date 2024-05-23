@@ -6,7 +6,7 @@
 
 #### Nice to see you here! Drop me a line if I can be of help
 
-- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1drn7XpSwrwkWbm2QNQUduaDir8V5fAVA/view?usp=sharing)
+- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1jBvZzCcr0ZgyZaqptIIBdo4dbuqoT_mE/view?usp=sharing)
 - 💼 [Portfolio](https://mattiapenna.dev/)
 - 📚 [Blog](https://www.ambidestro.it/)
 
@@ -14,10 +14,11 @@
 [![Google Playstore](https://img.shields.io/badge/-My_iOS_apps-gray?style=flat&logo=Apple&logoColor=white)](https://apps.apple.com/us/developer/mattia-penna/id1604956358)
 
 ## Tech Stack
-PHP • Symfony • CodeIgniter • AWS • Azure • SQL • JS • Node • Vue • Linux • Cordova
+PHP • Symfony • Laravel • CodeIgniter • Vue • Nuxt • Ionic • Azure • AWS
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
