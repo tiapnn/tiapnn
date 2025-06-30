@@ -1,6 +1,7 @@
 ## Hello there! I'm Mattia 👋🏼
 
 <a href="https://www.linkedin.com/in/tiapnn/">
+   &nbsp; Let's connect on Linkedin &nbsp;
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mattia Penna's LinkedIn Profile" height="30" width="30">
 </a>
 
