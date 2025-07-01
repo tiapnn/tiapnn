@@ -7,7 +7,7 @@
 
 #### Nice to see you here! Drop me a line if I can be of help
 
-- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1imbJAv9-pmMWXaLADuKUll6qdb6uP1wD/view?usp=sharing)
+- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1VamYeAQKIcXbI3koqhHoG5FemYdH7G-C/view?usp=sharing)
 - 💼 [Portfolio](https://mattiapenna.dev/)
 - 📚 [Blog](https://www.ambidestro.it/)
 
