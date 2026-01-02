@@ -27,11 +27,3 @@ PHP • Symfony • Laravel • CodeIgniter • Vue • Nuxt • Ionic • Azure
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
-
-<br>
-
-![Tiapnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiapnn&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiapnn&show_icons=true&theme=vue-dark)
-
-
