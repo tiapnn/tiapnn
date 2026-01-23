@@ -7,9 +7,9 @@
 
 #### Nice to see you here! Drop me a line if I can be of help
 
-- 📝 <a href="https://drive.google.com/file/d/1VamYeAQKIcXbI3koqhHoG5FemYdH7G-C/view?usp=sharing" target="_blank">Curriculum Vitae</a>
-- 💼 <a href="https://mattiapenna.dev/" target="_blank">Portfolio</a>
-- 📚 <a href="https://www.ambidestro.it/" target="_blank">Blog</a>
+- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1VamYeAQKIcXbI3koqhHoG5FemYdH7G-C/view?usp=sharing)
+- 💼 [Portfolio](https://mattiapenna.dev/)
+- 📚 [Blog](https://www.ambidestro.it/)
 
 [![Google Playstore](https://img.shields.io/badge/-My_Android_apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=4860545180474901450)
 [![Google Playstore](https://img.shields.io/badge/-My_iOS_apps-gray?style=flat&logo=Apple&logoColor=white)](https://apps.apple.com/us/developer/mattia-penna/id1604956358)
